@@ -1,4 +1,4 @@
 # Adarsh-Panika
 This is my first git repository
 <br>
-author - Adarsh kumar panika 
+author - Adarsh kumar Panika 
